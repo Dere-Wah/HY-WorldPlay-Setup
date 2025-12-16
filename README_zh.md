@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/teaser.png">
+  <img src="assets/teaser.webp">
 
 <h1>🎮 HY-World 1.5: 实时、几何一致的交互式世界建模系统框架</h1>
 
@@ -112,8 +112,8 @@ https://github.com/user-attachments/assets/3a3ab5fd-409a-4fa8-a39a-4aa1a09691e2
 
 |模型名称| 下载                     |\
 |-|-------------------------------------------|
-HY-World1.5-Bidirectional-480P-I2V |  [下载地址](https://huggingface.co/tencent/HY-WorldPlay/tree/main/ar_model)   |
-HY-World1.5-Autoregressive-480P-I2V |  [下载地址](https://huggingface.co/tencent/HY-WorldPlay/tree/main/bidirectional_model)  |
+HY-World1.5-Bidirectional-480P-I2V |  [下载地址](https://huggingface.co/tencent/HY-WorldPlay/tree/main/bidirectional_model)   |
+HY-World1.5-Autoregressive-480P-I2V | [下载地址](https://huggingface.co/tencent/HY-WorldPlay/tree/main/ar_model)   |
 HY-World1.5-Autoregressive-480P-I2V-distill |  [下载地址](https://huggingface.co/tencent/HY-WorldPlay/tree/main/ar_distilled_action_model)   |   
 
 ## 🔑 推理

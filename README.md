@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/teaser.png">
+  <img src="assets/teaser.webp">
 
 <h1>🎮 HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency</h1>
 
@@ -116,8 +116,8 @@ We provide the implementaion using the HunyuanVideo-1.5, which is one of most po
 
 |ModelName| Download                     |
 |-|-------------------------------------------| 
-HY-World1.5-Bidirectional-480P-I2V |  [Link](https://huggingface.co/tencent/HY-WorldPlay/tree/main/ar_model)   |
-HY-World1.5-Autoregressive-480P-I2V |  [Link](https://huggingface.co/tencent/HY-WorldPlay/tree/main/bidirectional_model)  |
+HY-World1.5-Bidirectional-480P-I2V |   [Link](https://huggingface.co/tencent/HY-WorldPlay/tree/main/bidirectional_model)  |
+HY-World1.5-Autoregressive-480P-I2V | [Link](https://huggingface.co/tencent/HY-WorldPlay/tree/main/ar_model)   |
 HY-World1.5-Autoregressive-480P-I2V-distill |  [Link](https://huggingface.co/tencent/HY-WorldPlay/tree/main/ar_distilled_action_model)   |   
 
 ## 🔑 Inference
